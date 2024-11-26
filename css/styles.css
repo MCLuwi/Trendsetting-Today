@@ -177,7 +177,7 @@ nav ul li a:hover {
 .about-section {
     position: relative;
     height: 100vh;
-    background-image: url('img/about\ us.jpg');
+    background-image: url('../img/about\ us.jpg');
     background-size: contain;
     background-position: center;
     display: flex;
@@ -253,7 +253,7 @@ footer {
   .bg-container {
     position: relative;
     height: 100vh;
-    background-image: url('img/about\ us.jpg');
+    background-image: url('../img/about\ us.jpg');
     background-size: contain;
     background-position: center;
     display: flex;
